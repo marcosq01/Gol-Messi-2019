@@ -7,7 +7,7 @@ Generar un gráfico que simule el gol que anotó Messi de tiro libre en el año 
 
 ### Funcionalidad
 
-La idea es que se trate de simular el movimiento de Messi y de la pelota tomando el mismo efecto (parecido) al que tomó en la realidad.
+La idea es que se trate de simular el movimiento de Messi y de la pelota tomando un efecto parecido al de la realidad.
 
 ### Tecnología/herramienta
 
